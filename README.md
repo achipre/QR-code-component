@@ -46,8 +46,8 @@ As I said this page is inspired by the Frontentmentor challenge where I have pra
 <br>
 
 ### This Challeges:
-* 🔗 Link: https://achipre.github.io/resumen-challenge/
-* 📦 Repository: https://github.com/achipre/resumen-challenge
+* 🔗 Link: https://achipre.github.io/QR-code-component/
+* 📦 Repository: https://github.com/achipre/QR-code-component
 * 💎 FrontendMentor: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
 
 <br>
